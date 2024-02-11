@@ -1,0 +1,27 @@
+{
+  "name": "namaste-react-learning",
+  "version": "1.0.0",
+  "description": "This is namaste react project which is a project for learning react",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "Ayush",
+    "Kumar",
+    "namaste-react"
+  ],
+  "author": "Ayush Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist" : [
+    "last 2 versions"
+  ]
+}
